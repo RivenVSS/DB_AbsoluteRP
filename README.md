@@ -7,3 +7,5 @@
 -выгрузка ника
 
 -выгрузка номера
+
+Сылка на закрузку https://github.com/RivenVSS/DB_AbsoluteRP/releases
